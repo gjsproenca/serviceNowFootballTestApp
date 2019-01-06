@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 298259 Football Football Test App" max_length="40" name="u_imp_tmpl_x_298259_football_football_test_app" type="collection">
+        <element attributes="import_attribute_name=Date,edge_encryption_enabled=true" label="Date" max_length="40" name="u_date" type="string"/>
+        <element attributes="import_attribute_name=FT,edge_encryption_enabled=true" label="FT" max_length="40" name="u_ft" type="string"/>
+        <element attributes="import_attribute_name=HT,edge_encryption_enabled=true" label="HT" max_length="40" name="u_ht" type="string"/>
+        <element attributes="import_attribute_name=League,edge_encryption_enabled=true" label="League" max_length="40" name="u_league" type="string"/>
+        <element attributes="import_attribute_name=Team 1,edge_encryption_enabled=true" label="Team 1" max_length="40" name="u_team_1" type="string"/>
+        <element attributes="import_attribute_name=Team 2,edge_encryption_enabled=true" label="Team 2" max_length="40" name="u_team_2" type="string"/>
+    </element>
+</database>

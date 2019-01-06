@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" label="Football Test App" max_length="40" name="x_298259_football_football_test_app" type="collection">
+        <element label="Date" max_length="40" name="date" type="string"/>
+        <element label="FT" max_length="40" name="ft" type="string"/>
+        <element label="HT" max_length="40" name="ht" type="string"/>
+        <element label="League" max_length="40" name="league" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Team 1" max_length="40" name="team_1" type="string"/>
+        <element label="Team 2" max_length="40" name="team_2" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
