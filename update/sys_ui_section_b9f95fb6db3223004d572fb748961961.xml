@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="b9f95fb6db3223004d572fb748961961" sys_domain="global" table="x_298259_football_football_test_app" version="3" view="advanced">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>league</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-08 16:33:39</sys_created_on>
+            <sys_id>011c13badb3223004d572fb74896199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b9f95fb6db3223004d572fb748961961</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-08 16:33:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-08 16:33:39</sys_created_on>
+            <sys_id>811c13badb3223004d572fb74896199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b9f95fb6db3223004d572fb748961961</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-08 16:33:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-08 16:33:39</sys_created_on>
+            <sys_id>051c13badb3223004d572fb74896199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b9f95fb6db3223004d572fb748961961</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-08 16:33:39</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>team_1</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-08 16:33:39</sys_created_on>
+            <sys_id>4d1c13badb3223004d572fb7489619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b9f95fb6db3223004d572fb748961961</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-08 16:33:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ht</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-08 16:33:39</sys_created_on>
+            <sys_id>cd1c13badb3223004d572fb7489619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b9f95fb6db3223004d572fb748961961</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-08 16:33:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-08 16:33:39</sys_created_on>
+            <sys_id>411c13badb3223004d572fb7489619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b9f95fb6db3223004d572fb748961961</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-08 16:33:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>team_2</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-08 16:33:39</sys_created_on>
+            <sys_id>c11c13badb3223004d572fb7489619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b9f95fb6db3223004d572fb748961961</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-08 16:33:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ft</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-08 16:33:39</sys_created_on>
+            <sys_id>451c13badb3223004d572fb7489619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b9f95fb6db3223004d572fb748961961</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-08 16:33:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_298259_football_football_test_app</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-08 16:24:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9f95fb6db3223004d572fb748961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_298259_football_football_test_app</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Football Test App" source="x_298259_football">981a61d2dbfe23004d572fb748961961</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Football Test App">981a61d2dbfe23004d572fb748961961</sys_scope>
+            <sys_update_name>sys_ui_section_b9f95fb6db3223004d572fb748961961</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-08 16:24:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

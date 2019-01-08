@@ -4,13 +4,13 @@
             <element>u_date</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-06 19:11:57</sys_created_on>
-            <sys_id>dc2d695adbfe23004d572fb748961979</sys_id>
+            <sys_created_on>2019-01-08 16:29:47</sys_created_on>
+            <sys_id>a43b5ff6db3223004d572fb7489619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_298259_football_football_test_app" sys_domain="global" view="Default view">ed8ca91adbfe23004d572fb748961954</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-06 19:11:57</sys_updated_on>
+            <sys_updated_on>2019-01-08 16:29:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_ft</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-06 19:11:57</sys_created_on>
-            <sys_id>502d695adbfe23004d572fb74896197a</sys_id>
+            <sys_created_on>2019-01-08 16:29:47</sys_created_on>
+            <sys_id>283b5ff6db3223004d572fb7489619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_298259_football_football_test_app" sys_domain="global" view="Default view">ed8ca91adbfe23004d572fb748961954</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-06 19:11:57</sys_updated_on>
+            <sys_updated_on>2019-01-08 16:29:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_ht</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-06 19:11:57</sys_created_on>
-            <sys_id>d02d695adbfe23004d572fb74896197a</sys_id>
+            <sys_created_on>2019-01-08 16:29:47</sys_created_on>
+            <sys_id>a83b5ff6db3223004d572fb7489619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_298259_football_football_test_app" sys_domain="global" view="Default view">ed8ca91adbfe23004d572fb748961954</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-06 19:11:57</sys_updated_on>
+            <sys_updated_on>2019-01-08 16:29:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-06 19:11:57</sys_created_on>
-            <sys_id>542d695adbfe23004d572fb74896197a</sys_id>
+            <sys_created_on>2019-01-08 16:29:47</sys_created_on>
+            <sys_id>2c3b5ff6db3223004d572fb7489619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_298259_football_football_test_app" sys_domain="global" view="Default view">ed8ca91adbfe23004d572fb748961954</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-06 19:11:57</sys_updated_on>
+            <sys_updated_on>2019-01-08 16:29:47</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>u_league</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-06 19:11:57</sys_created_on>
-            <sys_id>d42d695adbfe23004d572fb74896197a</sys_id>
+            <sys_created_on>2019-01-08 16:29:47</sys_created_on>
+            <sys_id>ac3b5ff6db3223004d572fb7489619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_298259_football_football_test_app" sys_domain="global" view="Default view">ed8ca91adbfe23004d572fb748961954</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-06 19:11:57</sys_updated_on>
+            <sys_updated_on>2019-01-08 16:29:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>u_team_1</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-06 19:11:57</sys_created_on>
-            <sys_id>582d695adbfe23004d572fb74896197a</sys_id>
+            <sys_created_on>2019-01-08 16:29:47</sys_created_on>
+            <sys_id>203b5ff6db3223004d572fb7489619d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_298259_football_football_test_app" sys_domain="global" view="Default view">ed8ca91adbfe23004d572fb748961954</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-06 19:11:57</sys_updated_on>
+            <sys_updated_on>2019-01-08 16:29:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>u_team_2</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-06 19:11:57</sys_created_on>
-            <sys_id>d82d695adbfe23004d572fb74896197a</sys_id>
+            <sys_created_on>2019-01-08 16:29:47</sys_created_on>
+            <sys_id>a03b5ff6db3223004d572fb7489619d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_298259_football_football_test_app" sys_domain="global" view="Default view">ed8ca91adbfe23004d572fb748961954</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-06 19:11:57</sys_updated_on>
+            <sys_updated_on>2019-01-08 16:29:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

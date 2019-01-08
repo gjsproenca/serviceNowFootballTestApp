@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="a9f91fb6db3223004d572fb7489619db" sys_domain="global" table="x_298259_football_football_test_app" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-08 16:31:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4eabdb7adb3223004d572fb7489619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_298259_football_football_test_app" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">a9f91fb6db3223004d572fb7489619db</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b9f95fb6db3223004d572fb748961961</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-08 16:31:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-08 16:33:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c51c13badb3223004d572fb748961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_298259_football_football_test_app" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">a9f91fb6db3223004d572fb7489619db</sys_ui_form>
+            <sys_ui_section caption="Number" display_value="Number" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">811c13badb3223004d572fb748961994</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-08 16:33:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-08 16:33:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef1c53badb3223004d572fb748961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_298259_football_football_test_app" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">a9f91fb6db3223004d572fb7489619db</sys_ui_form>
+            <sys_ui_section caption="Data" display_value="Data" name="x_298259_football_football_test_app" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">a71cdf7adb3223004d572fb7489619a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-08 16:33:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_298259_football_football_test_app</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-08 16:24:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9f91fb6db3223004d572fb7489619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_298259_football_football_test_app</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Football Test App" source="x_298259_football">981a61d2dbfe23004d572fb748961961</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Football Test App">981a61d2dbfe23004d572fb748961961</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a9f91fb6db3223004d572fb7489619db</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-08 16:24:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
