@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>true</applies_extended>
+        <condition/>
+        <description>Add info to the number field</description>
+        <field>number</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>addInfoMessage</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+	// checking if is the advanced view
+	if (getView() == 'advanced'){
+		//adding the info message to the number field
+		return g_form.addInfoMessage('This is the record number! ' + g_form.getValue('number'));
+	} else {
+		return;
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-08 18:50:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9a7977badb7223004d572fb748961964</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>addInfoMessage</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Football Test App" source="x_298259_football">981a61d2dbfe23004d572fb748961961</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Football Test App">981a61d2dbfe23004d572fb748961961</sys_scope>
+        <sys_update_name>sys_script_client_9a7977badb7223004d572fb748961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-09 14:39:24</sys_updated_on>
+        <table>x_298259_football_football_test_app</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
