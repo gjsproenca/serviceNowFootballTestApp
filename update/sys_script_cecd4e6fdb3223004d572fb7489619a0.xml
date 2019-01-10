@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_298259_football_football_test_app</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition table="x_298259_football_football_test_app">leagueEMPTYSTRING^EQ<item endquery="false" field="league" goto="false" newquery="false" operator="EMPTYSTRING" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>emptyLeague</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+	
+	// info message wabout empty field
+	gs.addInfoMessage('This is a buiseness rule runing before the insert showing the time and date if the league field is empty ' + gs.daysAgo());
+	
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-10 18:52:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cecd4e6fdb3223004d572fb7489619a0</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>emptyLeague</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Football Test App" source="x_298259_football">981a61d2dbfe23004d572fb748961961</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Football Test App">981a61d2dbfe23004d572fb748961961</sys_scope>
+        <sys_update_name>sys_script_cecd4e6fdb3223004d572fb7489619a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-10 19:17:40</sys_updated_on>
+        <template>league=buiseness rule^EQ</template>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=cecd4e6fdb3223004d572fb7489619a0"/>
+</record_update>
