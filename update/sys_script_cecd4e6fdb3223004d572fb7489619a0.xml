@@ -32,7 +32,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 	
 	// info message wabout empty field
-	gs.addInfoMessage('This is a buiseness rule runing before the insert showing the time and date if the league field is empty ' + gs.daysAgo());
+	gs.addInfoMessage('This is a business rule runing before the insert showing the time and date if the league field is empty ' + gs.daysAgo());
 	
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -41,7 +41,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>cecd4e6fdb3223004d572fb7489619a0</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>emptyLeague</sys_name>
         <sys_overrides/>
         <sys_package display_value="Football Test App" source="x_298259_football">981a61d2dbfe23004d572fb748961961</sys_package>
@@ -49,7 +49,7 @@
         <sys_scope display_value="Football Test App">981a61d2dbfe23004d572fb748961961</sys_scope>
         <sys_update_name>sys_script_cecd4e6fdb3223004d572fb7489619a0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-10 19:17:40</sys_updated_on>
+        <sys_updated_on>2019-01-10 19:21:32</sys_updated_on>
         <template>league=buiseness rule^EQ</template>
         <when>before</when>
     </sys_script>
